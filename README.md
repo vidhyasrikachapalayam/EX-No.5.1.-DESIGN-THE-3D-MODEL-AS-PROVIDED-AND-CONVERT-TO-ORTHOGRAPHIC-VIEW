@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Uploading edm 5.2 vidhya_page-0001.jpg…]
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
